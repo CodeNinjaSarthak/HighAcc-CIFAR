@@ -1,4 +1,6 @@
 # HighAcc-CIFAR
+<img src="Cifar.png" alt="Cifar-10" width="500" height="500"/>
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.x-blue)
